@@ -2,6 +2,7 @@
 
 import UIKit
 
+//Variaveis
 var str = "Hello, playground"
 var nome:String = "Iuri"
 
